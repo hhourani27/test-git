@@ -4,9 +4,6 @@ blue
 yellow
 gray
 black
-<<<<<<< HEAD
 white
 violet
-=======
 orange
->>>>>>> refs/remotes/origin/main
