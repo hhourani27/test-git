@@ -7,3 +7,4 @@ black
 white
 violet
 orange
+pink
