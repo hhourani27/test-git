@@ -10,3 +10,4 @@ orange
 pink
 almond
 amber
+fushia
